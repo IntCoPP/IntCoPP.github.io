@@ -16,7 +16,7 @@ en: &DEFAULT_EN
     button: More
     buttonlink: "#about"
 
-  hosts:
+  services:
     title: "Hosts"
     text: "Lorem ipsum"
     section: hosts
@@ -74,7 +74,7 @@ en: &DEFAULT_EN
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: about
 
-  speakers:
+  team:
     title: "Speakers"
     text: "Lorem ipsum dolor sit amet consectetur."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
