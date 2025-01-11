@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     title: 1st International Conference on Profiling and AI Policing  
     text: 2025 국제 Profiling & AI Policing 학회 
     button: More
-    buttonlink: "#hosts"
+    buttonlink: "#services"
     
   services:
     title: "Hosts"
@@ -24,18 +24,23 @@ en: &DEFAULT_EN
       - title: "Hallym University"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: assets/img/host/a.jpg
+        image: assets/img/host/a.jpg
       - title: "Sungkyunkwan University"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: assets/img/host/b.jpg
+        image: assets/img/host/b.jpg
       - title: "Korean National Police Agency"
         desc: "Your description here, full **Markdown** support"
         icon: assets/img/host/c.jpg
+        image: assets/img/host/c.jpg
       - title: "Korean Data Forensic Society"
         desc: "Your description here, full **Markdown** support"
         icon: assets/img/host/d.jpg
+        image: assets/img/host/d.jpg
       - title: "Pyo Institute of Crime Science"
         desc: "Your description here, full **Markdown** support"
         icon: assets/img/host/e.png
+        image: assets/img/host/e.png
   
 
 
