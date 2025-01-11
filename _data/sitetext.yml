@@ -16,6 +16,12 @@ en: &DEFAULT_EN
     button: More
     buttonlink: "#services"
     
+  about:
+    title: "Location"
+    text: "17th - 18th February 2025"
+    body: "Multimedia Lecture Room, SKKU, Seoul, Korea"
+    section: about
+  
   services:
     title: "Hosts"
     text: "2025 International Conference on Profiling & AI Policing Host Information"
@@ -37,14 +43,6 @@ en: &DEFAULT_EN
         desc: "Your description here, full **Markdown** support"
         image: assets/img/host/c.jpg
   
-
-  about:
-    title: "Location"
-    text: "17th - 18th February 2025"
-    body: "Multimedia Lecture Room, SKKU, Seoul, Korea"
-    section: about
-    image: assets/img/host/e.png
-
         
   timeline:
     title: "Timeline"
