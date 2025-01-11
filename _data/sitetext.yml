@@ -33,15 +33,13 @@ en: &DEFAULT_EN
       - title: "Sungkyunkwan University"
         desc: "성균관대학교"
         image: assets/img/host/b.jpg
+      <br>
       - title: "Korean National Police Agency"
         desc: "경찰청"
         image: assets/img/host/c.jpg
       - title: "Korean Data Forensic Society"
         desc: "한국데이터포렌식학회"
         image: assets/img/host/d.jpg
-      - title: "Pyo Institute of Crime Science"
-        desc: "표창원범죄과학연구소"
-        image: assets/img/host/e.png
   
         
   timeline:
