@@ -33,6 +33,9 @@ en: &DEFAULT_EN
       - title: "Korean Data Forensic Society"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
+      - title: "Pyo Institute of Crime Science"
+        desc: "Your description here, full **Markdown** support"
+        icon: fab fa-markdown
   portfolio:
     title: "Portfolio"
     text: "Lorem ipsum dolor sit amet consectetur."
@@ -95,13 +98,13 @@ en: &DEFAULT_EN
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "OUR AMAZING TEAM"
+    title: "Speakers"
     text: "Lorem ipsum dolor sit amet consectetur."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: "Kate Bowers"
+        role: "University College London"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
@@ -110,8 +113,8 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
+      - name: "Brent Turvey"
+        role: "Forensic Criminology Institute"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
@@ -120,8 +123,8 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
+      - name: "Floris Bex"
+        role: "Utrect University"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
@@ -130,7 +133,36 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-
+      - name: "Bas Testerink"
+        role: "Utrect University"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Hee Dou Kim"
+        role: "Korean National Police University"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Myung-Sun Baek"
+        role: "Sejong University"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
   contact:
     title: "Contact Us"
     text: "Lorem ipsum or call 123456789"
