@@ -71,12 +71,12 @@ en: &DEFAULT_EN
         desc: "Session 4:<br>Researching Developing and<br>Evaluating AI at the National Police lab AI"
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      # - title: "Bas Testerink"
-      #   year: "Day 2"
-      #   desc: "Session 5:<br>AI in Policing - What Works in Practice?"
-      #   image: assets/img/timeline/4.jpg
-      #   alt:
-        align: right
+      - title: "Bas Testerink"
+        year: "Day 2"
+        desc: "Session 5:<br>AI in Policing - What Works in Practice?"
+        image: assets/img/timeline/4.jpg
+        alt:
+        # align: right
     end: "Be Part <br> of Our <br> Story!"
 
   # about:
