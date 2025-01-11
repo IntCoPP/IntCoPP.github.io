@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: 1st International Conference on Profiling and AI policing
-    text: 제 1회 국제 프로파일링 & AI 경찰학 학회
+    title: 제 1회 국제 프로파일링 & AI 경찰학 학회 
+    text: 1st International Conference on Profiling and AI policing 
     button: More
     buttonlink: "#services"
 
