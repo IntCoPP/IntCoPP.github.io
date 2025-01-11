@@ -20,7 +20,7 @@ en: &DEFAULT_EN
     title: "Hosts"
     text: "Lorem ipsum"
     section: services
-    people:
+    list:
       - title: "Hallym University"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         image: assets/img/host/a.jpg
@@ -91,7 +91,7 @@ en: &DEFAULT_EN
     people:
       - name: "Kate Bowers"
         role: "University College London"
-        image: assets/img/team/1.jpg
+        image: assets/img/team/1.jpeg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -101,7 +101,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Brent Turvey"
         role: "Forensic Criminology Institute"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/2.jpeg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -121,7 +121,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Bas Testerink"
         role: "Utrect University"
-        image: assets/img/team/4.jpg
+        image: assets/img/team/4.jpeg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
