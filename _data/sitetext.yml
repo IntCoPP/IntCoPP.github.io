@@ -46,7 +46,7 @@ en: &DEFAULT_EN
         
   timeline:
     title: "Timeline"
-    text: "Lorem ipsum timeline"
+    text: "2025 International Conference on Profiling & AI Policing Seminar Agenda"
     section: timeline
     # left is the default
     #start_align: "left"
