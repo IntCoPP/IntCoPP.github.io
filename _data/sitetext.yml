@@ -38,7 +38,7 @@ en: &DEFAULT_EN
         image: assets/img/host/c.jpg
       - title: "Korean Data Forensic Society"
         desc: "한국데이터포렌식학회"
-        image: assets/img/host/d.jpg
+        image: assets/img/host/d.png
   
         
   timeline:
