@@ -33,7 +33,6 @@ en: &DEFAULT_EN
       - title: "Sungkyunkwan University"
         desc: "성균관대학교"
         image: assets/img/host/b.jpg
-      <br>
       - title: "Korean National Police Agency"
         desc: "경찰청"
         image: assets/img/host/c.jpg
