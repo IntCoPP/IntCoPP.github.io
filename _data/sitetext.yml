@@ -61,11 +61,6 @@ en: &DEFAULT_EN
         desc: "Session 2:<br>AI and Criminal Profiling"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Changwon Pyo"
-        year: "Day 1"
-        desc: "Session 3:<br>Data Science, AI & Criminal Profiling<br>from Korean Perspective"
-        image: assets/img/timeline/2.jpg
-        alt:
       - title: "Floris Bex"
         year: "Day 2"
         desc: "Session 4:<br>Researching Developing and<br>Evaluating AI at the National Police lab AI"
@@ -76,8 +71,13 @@ en: &DEFAULT_EN
         desc: "Session 5:<br>AI in Policing - What Works in Practice?"
         image: assets/img/timeline/4.jpg
         alt:
-        # you can enforce the alignment
-        align: right
+      # - title: "Changwon Pyo"
+      #   year: "Day 1"
+      #   desc: "Session 3:<br>Data Science, AI & Criminal Profiling<br>from Korean Perspective"
+      #   image: assets/img/timeline/2.jpg
+      #   alt: 
+      #   # you can enforce the alignment
+      #   align: right
     end: "Be Part <br> of Our <br> Story!"
 
   # about:
