@@ -18,7 +18,7 @@ en: &DEFAULT_EN
     
   services:
     title: "Hosts"
-    text: "Lorem ipsum"
+    text: "2025 International Conference on Profiling & AI Policing Host Information"
     section: services
     list:
       - title: "Hallym University"
