@@ -16,11 +16,11 @@ en: &DEFAULT_EN
     button: More
     buttonlink: "#hosts"
     
-  team:
+  services:
     title: "Hosts"
     text: "Lorem ipsum"
     section: services
-    list:
+    people:
       - title: "Hallym University"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         image: assets/img/host/a.jpg
