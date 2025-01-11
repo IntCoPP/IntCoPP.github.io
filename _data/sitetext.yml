@@ -16,7 +16,7 @@ en: &DEFAULT_EN
     button: More
     buttonlink: "#hosts"
     
-  services:
+  team:
     title: "Hosts"
     text: "Lorem ipsum"
     section: services
