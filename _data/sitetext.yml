@@ -63,7 +63,7 @@ en: &DEFAULT_EN
         alt:
       - title: "Changwon Pyo"
         year: "Day 1"
-        desc: "Session 5:<br>AI in Policing - What Works in Practice?"
+        desc: "Session 3:<br>Data Science, AI and Criminal Profiling from Korean Perspective"
         image: assets/img/timeline/4.jpg
         alt:
       - title: "Floris Bex"
