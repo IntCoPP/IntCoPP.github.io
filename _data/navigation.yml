@@ -18,7 +18,7 @@ en: &DEFAULT_EN
     - title: "Timeline"
       section: timeline
     - title: "Speakers"
-      section: speaker
+      section: team
     - title: "Contact"
       section: contact
   
