@@ -58,12 +58,12 @@ en: &DEFAULT_EN
         alt:
       - title: "Brent Turvey"
         year: "Day 1"
-        desc: "Session 2:<br>AI and Criminal Profiling"
+        desc: "Session 2:<br>AI & Criminal Profiling"
         image: assets/img/timeline/2.jpg
         alt:
       - title: "Changwon Pyo"
         year: "Day 1"
-        desc: "Session 3:<br>Data Science, AI and Criminal Profiling from Korean Perspective"
+        desc: "Session 3:<br>Data Science, AI & Criminal Profiling from Korean Perspective"
         image: assets/img/timeline/4.jpg
         alt:
       - title: "Floris Bex"
@@ -77,7 +77,7 @@ en: &DEFAULT_EN
         image: assets/img/timeline/4.jpg
         alt:
         # align: right
-    end: "The <br> 1st <br> IntCoPP"
+    end: "The 1st <br> IntCoPP"
 
   # about:
   #   title: "About Us"
