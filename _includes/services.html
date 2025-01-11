@@ -16,7 +16,7 @@
 	  {% for service in site.data.sitetext[site.locale].services.list %}
         <div class="col-md-4">
           <!-- Replace Font Awesome with an image -->
-          <img src="{{ service.image | default: '/assets/img/default-service.png' }}" alt="{{ service.title }}" style="width:130px; height:130px; object-fit:contain; margin-bottom:15px;">
+          <img src="{{ service.image | default: '/assets/img/default-service.png' }}" alt="{{ service.title }}" style="width:130px; height:130px; object-fit:cover; margin-bottom:15px;">
           
           <h4 class="service-heading">{{ service.title | markdownify }}</h4>
           {% if service.desc %}<div class="text-muted">{{ service.desc | markdownify }}</div>{% endif %}
@@ -43,7 +43,7 @@
   {% for service in site.data.sitetext.services.list %}
       <div class="col-md-4">
         <!-- Replace Font Awesome with an image -->
-        <img src="{{ service.image | default: '/assets/img/default-service.png' }}" alt="{{ service.title }}" style="width:130px; height:130px; object-fit:contain; margin-bottom:15px;">
+        <img src="{{ service.image | default: '/assets/img/default-service.png' }}" alt="{{ service.title }}" style="width:130px; height:130px; object-fit:cover; margin-bottom:15px;">
         
         <h4 class="service-heading">{{ service.title | markdownify }}</h4>
         {% if service.desc %}<div class="text-muted">{{ service.desc | markdownify }}</div>{% endif %}
