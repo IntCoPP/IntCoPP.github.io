@@ -56,25 +56,25 @@ en: &DEFAULT_EN
       - title: "Brent Turvey"
         year: "Day 1"
         desc: "Session 2:<br>AI & Criminal Profiling"
-        image: assets/img/timeline/2.jpg
+        image: assets/img/timeline/2.png
         alt:
       - title: "Changwon Pyo"
         year: "Day 1"
         desc: "Session 3:<br>Data Science, AI & Criminal Profiling from Korean Perspective"
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/3.png
         alt:
       - title: "Floris Bex"
         year: "Day 2"
         desc: "Session 4:<br>Researching Developing &<br>Evaluating AI at the National Police lab AI"
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/4.png
         alt: image alt text
       - title: "Bas Testerink"
         year: "Day 2"
         desc: "Session 5:<br>AI in Policing - What Works in Practice?"
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/4.png
         alt:
         # align: right
-    end: "Infinity and beyond"
+    end: "The <br> 1st <br> CoPP"
 
   # about:
   #   title: "About Us"
