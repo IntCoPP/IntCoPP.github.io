@@ -43,7 +43,7 @@ en: &DEFAULT_EN
     title: "Location"
     text: "17th - 18th February 2025"
     body: "Multimedia Lecture Room, SKKU, Seoul, Korea"
-    section: location
+    section: about
 
         
   timeline:
