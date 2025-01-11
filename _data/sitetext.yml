@@ -28,19 +28,19 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Hallym University"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "한림대학교"
         image: assets/img/host/a.png
       - title: "Sungkyunkwan University"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "성균관대학교"
         image: assets/img/host/b.jpg
       - title: "Korean National Police Agency"
-        desc: "Your description here, full **Markdown** support"
+        desc: "경찰청"
         image: assets/img/host/c.jpg
       - title: "Korean Data Forensic Society"
-        desc: "Your description here, full **Markdown** support"
+        desc: "한국데이터포렌식학회"
         image: assets/img/host/d.jpg
       - title: "Pyo Institute of Crime Science"
-        desc: "Your description here, full **Markdown** support"
+        desc: "표창원범죄과학연구소"
         image: assets/img/host/e.png
   
         
