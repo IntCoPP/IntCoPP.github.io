@@ -14,10 +14,10 @@ en: &DEFAULT_EN
     title: 1st International Conference on Profiling and AI Policing  
     text: 2025 국제 Profiling & AI Policing 학회 
     button: More
-    buttonlink: "#services"
+    buttonlink: "#about"
     
   about:
-    title: "Location"
+    title: "Information"
     text: "17th - 18th February 2025"
     body: "Multimedia Lecture Room, SKKU, Seoul, Korea"
     section: about
