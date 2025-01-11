@@ -23,19 +23,19 @@ en: &DEFAULT_EN
     list:
       - title: "Hallym University"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        image: assets/img/host/a.jpg
       - title: "Sungkyunkwan University"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
+        image: assets/img/host/b.jpg
       - title: "Korean National Police Agency"
         desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        image: assets/img/host/c.jpg
       - title: "Korean Data Forensic Society"
         desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        image: assets/img/host/d.jpg
       - title: "Pyo Institute of Crime Science"
         desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        image: assets/img/host/e.png
   
 
 
@@ -85,13 +85,13 @@ en: &DEFAULT_EN
 
   team:
     title: "Speakers"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "2025 International Conference on Profiling & AI Policing Speaker Information"
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
       - name: "Kate Bowers"
         role: "University College London"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/1.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -111,7 +111,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Floris Bex"
         role: "Utrect University"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/3.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -121,7 +121,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Bas Testerink"
         role: "Utrect University"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/4.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
