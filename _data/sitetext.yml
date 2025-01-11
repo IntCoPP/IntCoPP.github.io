@@ -61,8 +61,8 @@ en: &DEFAULT_EN
         desc: "Session 2:<br>AI and Criminal Profiling"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "please"
-        year: "Day 2"
+      - title: "Changwon Pyo"
+        year: "Day 1"
         desc: "Session 5:<br>AI in Policing - What Works in Practice?"
         image: assets/img/timeline/4.jpg
         alt:
