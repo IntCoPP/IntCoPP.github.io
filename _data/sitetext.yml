@@ -36,6 +36,7 @@ en: &DEFAULT_EN
       - title: "Pyo Institute of Crime Science"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
+  
   portfolio:
     title: "Portfolio"
     text: "Lorem ipsum dolor sit amet consectetur."
@@ -78,24 +79,6 @@ en: &DEFAULT_EN
     text: "our story"
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: about
-
-  clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
 
   team:
     title: "Speakers"
