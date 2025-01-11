@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: 1st International Conference on Profiling and AI Policing  
-    text: 2025 국제 Profiling & AI Policing 학회 
+    title: 1st International Conference on Profiling & AI Policing  
+    text: 2025 국제 Profiling<br>& AI Policing 학회 
     button: More
     buttonlink: "#about"
     
