@@ -53,22 +53,22 @@ en: &DEFAULT_EN
     events:
       - title: "Kate Bowers"
         year: "Day 1"
-        desc: "Session 1: Using Data Science Innovations in the Discipline of Crime Science"
+        desc: "Session 1:<br>Using Data Science Innovations<br>in the Discipline of Crime Science"
         image: assets/img/timeline/1.jpg
         alt:
       - title: "Brent Turvey"
         year: "Day 1"
-        desc: "Session 2: AI and Criminal Profiling"
+        desc: "Session 2:<br>AI and Criminal Profiling"
         image: assets/img/timeline/2.jpg
         alt:
       - title: "Floris Bex"
         year: "Day 2"
-        desc: "Session 3: Researching Developing and Evaluating AI at the National Police lab AI"
+        desc: "Session 3:<br>Researching Developing and<br>Evaluating AI at the National Police lab AI"
         image: assets/img/timeline/3.jpg
         alt: image alt text
       - title: "Bas Testerink"
         year: "Day 2"
-        desc: "Session 4: AI in Policing - What Works in Practice?"
+        desc: "Session 4:<br>AI in Policing - What Works in Practice?"
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
