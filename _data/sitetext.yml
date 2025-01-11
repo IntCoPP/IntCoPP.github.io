@@ -43,6 +43,7 @@ en: &DEFAULT_EN
     text: "17th - 18th February 2025"
     body: "Multimedia Lecture Room, SKKU, Seoul, Korea"
     section: about
+    image: assets/img/host/e.png
 
         
   timeline:
