@@ -68,7 +68,7 @@ en: &DEFAULT_EN
         alt:
       - title: "Floris Bex"
         year: "Day 2"
-        desc: "Session 4:<br>Researching Developing and<br>Evaluating AI at the National Police lab AI"
+        desc: "Session 4:<br>Researching Developing &<br>Evaluating AI at the National Police lab AI"
         image: assets/img/timeline/3.jpg
         alt: image alt text
       - title: "Bas Testerink"
@@ -77,7 +77,7 @@ en: &DEFAULT_EN
         image: assets/img/timeline/4.jpg
         alt:
         # align: right
-    end: "The 1st <br> IntCoPP"
+    end: "Infinity and beyond"
 
   # about:
   #   title: "About Us"
