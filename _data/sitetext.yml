@@ -36,7 +36,7 @@ en: &DEFAULT_EN
       - title: "Pyo Institute of Crime Science"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
-        align: center
+        
 
   timeline:
     title: "Timeline"
