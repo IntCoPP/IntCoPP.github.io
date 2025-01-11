@@ -11,26 +11,28 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: 제 1회 국제 프로파일링 & AI 경찰학 학회 
-    text: 1st International Conference on Profiling and AI policing 
+    title: 1st International Conference on Profiling and AI Policing  
+    text: 2025 국제 Profiling & AI Policing 학회 
     button: More
     buttonlink: "#services"
 
   services:
-    title: "Services"
+    title: "Hosts"
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "E-Commerce"
+      - title: "Hallym University"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
+      - title: "Sungkyunkwan University"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+      - title: "Korean National Police Agency"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
-
+      - title: "Korean Data Forensic Society"
+        desc: "Your description here, full **Markdown** support"
+        icon: fab fa-markdown
   portfolio:
     title: "Portfolio"
     text: "Lorem ipsum dolor sit amet consectetur."
