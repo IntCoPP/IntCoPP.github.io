@@ -19,8 +19,7 @@ en: &DEFAULT_EN
   about:
     title: "Information"
     text: "17th - 18th February 2025"
-    body: "Location: Multimedia Lecture Room, SKKU, Seoul, Korea"
-    body: "장소: 서울특별시 종로구 성균관로 25-2 성균관대학교 인문사회과학캠퍼스 600주년기념관"
+    body: "Location: Multimedia Lecture Room, SKKU, Seoul, Korea<br>장소: 서울특별시 종로구 성균관로 25-2 성균관대학교 인문사회과학캠퍼스 600주년기념관"
     section: about
   
   services:
@@ -30,7 +29,7 @@ en: &DEFAULT_EN
     list:
       - title: "Hallym University"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        image: assets/img/host/a.jpg
+        image: assets/img/host/a.png
       - title: "Sungkyunkwan University"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         image: assets/img/host/b.jpg
@@ -42,7 +41,7 @@ en: &DEFAULT_EN
         image: assets/img/host/d.jpg
       - title: "Pyo Institute of Crime Science"
         desc: "Your description here, full **Markdown** support"
-        image: assets/img/host/c.jpg
+        image: assets/img/host/e.jpg
   
         
   timeline:
