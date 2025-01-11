@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     title: 1st International Conference on Profiling and AI Policing  
     text: 2025 국제 Profiling & AI Policing 학회 
     button: More
-    buttonlink: "#services"
+    buttonlink: "#about"
 
   hosts:
     title: "Hosts"
