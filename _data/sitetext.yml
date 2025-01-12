@@ -92,7 +92,7 @@ en: &DEFAULT_EN
         image: assets/img/team/1.jpeg
         social:
           - url: https://profiles.ucl.ac.uk/11106
-            icon: fab fa-globe
+            icon: fab fa-link
           - url: https://www.linkedin.com/in/kate-bowers-a562132/
             icon: fab fa-linkedin-in
       - name: "Brent Turvey"
@@ -100,7 +100,7 @@ en: &DEFAULT_EN
         image: assets/img/team/2.jpeg
         social:
           - url: https://www.forensic-institute.com/
-            icon: fab fa-globe
+            icon: fab fa-link
           - url: https://www.linkedin.com/in/brent-turvey-fci/
             icon: fab fa-linkedin-in
       - name: "Floris Bex"
@@ -108,23 +108,23 @@ en: &DEFAULT_EN
         image: assets/img/team/3.jpg
         social:
           - url: https://www.florisbex.com/
-            icon: fab fa-globe
+            icon: fab fa-link
           - url: https://www.linkedin.com/in/floris-bex-4746425/
             icon: fab fa-linkedin-in
       - name: "Bas Testerink"
         role: "Utrect University"
         image: assets/img/team/4.jpeg
         social:
-          - url: https://dblp.org/pid/147/6773.html
-            icon: fab fa-globe
+          - url: https://ai4intelligence.github.io/
+            icon: fab fa-link
           - url: https://www.linkedin.com/in/bas-testerink-9aa742a4/
             icon: fab fa-linkedin-in
       - name: "Changwon Pyo"
-        role: "Adjunct Professor of Hallym University & Director, PICS"
+        role: "Hallym University & PICS"
         image: assets/img/team/5.png
         social:
           - url: pyocsi.co.kr
-            icon: fab fa-globe
+            icon: fab fa-link
           - url: https://www.linkedin.com/in/changwon-pyo-13995541/
             icon: fab fa-linkedin-in
       - name: "Hee Dou Kim"
