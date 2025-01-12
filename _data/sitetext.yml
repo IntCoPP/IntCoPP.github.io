@@ -92,7 +92,7 @@ en: &DEFAULT_EN
         image: assets/img/team/1.jpeg
         social:
           - url: https://profiles.ucl.ac.uk/11106
-            icon: fab fa-link
+            icon: fab fa-safari
           - url: https://www.linkedin.com/in/kate-bowers-a562132/
             icon: fab fa-linkedin-in
       - name: "Brent Turvey"
