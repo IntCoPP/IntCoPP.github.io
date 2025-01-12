@@ -160,7 +160,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "Please contact us if you have any inquiries"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
