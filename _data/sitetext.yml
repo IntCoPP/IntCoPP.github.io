@@ -41,13 +41,13 @@ en: &DEFAULT_EN
         image: assets/img/host/d.png
   
   registration:
-    title: "Registration & Inquiries"
+    title: "Registration"
     text: "Korean Data Forensic Society - Participation Guidelines for the Conference"
     section: registration
-    requirement: "Researchers in the fields of Profiling and Data Forensics (AI Policing), limited to the first 100 applicants."
+    requirement: "Researchers in the fields of Profiling or Data Forensics (AI Policing), limited to the first 100 applicants."
     contact: |
-    Email: [kdafos@naver.com](mailto:kdafos@naver.com)  
-    Phone: 010-3434-3131 (Jinhang Yoon), 010-6747-0039 (Kwangjae Won)
+      Email: [kdafos@naver.com](mailto:kdafos@naver.com)  
+      Phone: 010-3434-3131 (Jinhang Yoon), 010-6747-0039 (Kwangjae Won)
 
     
   timeline:
