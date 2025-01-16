@@ -19,6 +19,8 @@ en: &DEFAULT_EN
       section: timeline
     - title: "Speakers"
       section: team
+    - title: "Register"
+      section: registration
     - title: "Contact"
       section: contact
   
