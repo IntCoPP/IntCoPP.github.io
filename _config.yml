@@ -17,7 +17,7 @@ remote_theme: raviriley/agency-jekyll-theme
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
 
-title      : 1st IntCoPP
+title      : Korean Data Forensic Society
 email      : pics@pyocsi.co.kr #this is also the email contact forms will go to
 description: "Pyo Institute of Crime Science"
 author     : Minkyoung Pyo
