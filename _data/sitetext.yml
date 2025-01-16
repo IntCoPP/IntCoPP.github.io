@@ -83,7 +83,6 @@ en: &DEFAULT_EN
         image: assets/img/timeline/4.png
         alt:
         # align: right
-    end: "The <br> 1st <br> CoPP"
 
   # about:
   #   title: "About Us"
