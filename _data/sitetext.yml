@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: 1st International Conference on Profiling & AI Policing  
+    title: Korean Data Forensic Society<br>2025 International Conference on  Profiling & AI Policing  
     text: 2025 국제 Profiling<br>& AI Policing 학회 
     button: More
     buttonlink: "#about"
