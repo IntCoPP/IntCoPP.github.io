@@ -142,24 +142,9 @@ en: &DEFAULT_EN
             icon: fab fa-instagram
       - name: "Hee Dou Kim"
         role: "Korean National Police University"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
       - name: "Myung-Sun Baek"
         role: "Sejong University"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+        
   contact:
     title: "Contact Us"
     text: "Please contact us if you have any inquiries"
