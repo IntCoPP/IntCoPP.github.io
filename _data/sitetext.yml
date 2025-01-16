@@ -132,7 +132,7 @@ en: &DEFAULT_EN
         role: "Hallym University & PICS"
         image: assets/img/team/5.png
         social:
-          - url: pyocsi.co.kr
+          - url: https://pyocsi.co.kr
             icon: fab fa-safari
           - url: https://www.linkedin.com/in/changwon-pyo-13995541/
             icon: fab fa-linkedin-in
