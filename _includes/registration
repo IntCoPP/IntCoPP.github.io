@@ -1,0 +1,59 @@
+<!-- Registration & Inquiries -->
+{% if site.locale and site.locale != "" and site.locale != nil %}
+<section class="bg-light page-section" id="{{ site.data.sitetext[site.locale].registration.section | default: 'registration' }}">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading text-uppercase">{{ site.data.sitetext[site.locale].registration.title | default: "Registration & Inquiries" }}</h2>
+        <h3 class="section-subheading text-muted">{{ site.data.sitetext[site.locale].registration.text | default: "Participation Guidelines for the Conference" }}</h3>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-8 mx-auto text-center">
+        <div class="large text-muted">
+          <h4 class="text-uppercase">Official English Name</h4>
+          <p>Korean Data Forensic Society</p>
+
+          <h4 class="text-uppercase">Participation Requirement</h4>
+          <p>Researchers in the fields of Profiling and Data Forensics (AI Policing), limited to the first 100 applicants.</p>
+
+          <h4 class="text-uppercase">Registration & Inquiries</h4>
+          <p>
+            📧 Email: <a href="mailto:kdafos@naver.com">kdafos@naver.com</a><br>
+            📞 Phone: 010-3434-3131 (Jinhang Yoon), 010-6747-0039 (Kwangjae Won)
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{% else %}
+<section class="page-section" id="{{ site.data.sitetext.registration.section | default: 'registration' }}">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading text-uppercase">{{ site.data.sitetext.registration.title | default: "Registration & Inquiries" }}</h2>
+        <h3 class="section-subheading text-muted">{{ site.data.sitetext.registration.text | default: "Participation Guidelines for the Conference" }}</h3>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-8 mx-auto text-center">
+        <div class="large text-muted">
+          <h4 class="text-uppercase">Official English Name</h4>
+          <p>Korean Data Forensic Society</p>
+
+          <h4 class="text-uppercase">Participation Requirement</h4>
+          <p>Researchers in the fields of Profiling and Data Forensics (AI Policing), limited to the first 100 applicants.</p>
+
+          <h4 class="text-uppercase">Registration & Inquiries</h4>
+          <p>
+            📧 Email: <a href="mailto:kdafos@naver.com">kdafos@naver.com</a><br>
+            📞 Phone: 010-3434-3131 (Jinhang Yoon), 010-6747-0039 (Kwangjae Won)
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{% endif %}
+<!-- End Registration & Inquiries -->
