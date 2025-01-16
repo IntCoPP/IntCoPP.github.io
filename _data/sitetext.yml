@@ -84,13 +84,13 @@ en: &DEFAULT_EN
         alt:
       - title: "Hee Dou Kim"
         year: "Day 2"
-        desc: "Session 6:<br>AI in Policing - What Works in Practice?"
-        image: assets/img/timeline/4.png
+        desc: "Session 6:<br>TBC"
+        image: assets/img/timeline/5.png
         alt:
       - title: "Myung-Sun Baek"
         year: "Day 2"
-        desc: "Session 7:<br>AI in Policing - What Works in Practice?"
-        image: assets/img/timeline/4.png
+        desc: "Session 7:<br>TBC"
+        image: assets/img/timeline/6.png
         alt:
         # align: right
 
