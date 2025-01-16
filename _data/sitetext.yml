@@ -40,7 +40,12 @@ en: &DEFAULT_EN
         desc: "한국데이터포렌식학회"
         image: assets/img/host/d.png
   
-        
+  about:
+    title: "Registration"
+    text: "Korean Data Forensic Society 한국데이터포렌식학회"
+    body: "Participation Requirement: Researchers in the fields of Profiling and Data Forensics (AI Policing),<br>limited to the first 100 applicants."
+    section: about
+    
   timeline:
     title: "Timeline"
     text: "2025 International Conference on Profiling & AI Policing Seminar Agenda"
