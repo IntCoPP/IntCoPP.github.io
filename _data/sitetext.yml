@@ -84,12 +84,12 @@ en: &DEFAULT_EN
         alt:
       - title: "Hee Dou Kim"
         year: "Day 2"
-        desc: "Session 6:<br>TBC"
+        desc: "Session 6:<br>Research and Practice in the Use of<br>Language Models in Policing"
         image: assets/img/timeline/5.png
         alt:
       - title: "Myung-Sun Baek"
         year: "Day 2"
-        desc: "Session 7:<br>TBC"
+        desc: "Session 7:<br>ICT-based Crime Risk Prediction<br>and Response Platform Development"
         image: assets/img/timeline/6.png
         alt:
         # align: right
