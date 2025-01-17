@@ -151,13 +151,13 @@ en: &DEFAULT_EN
             icon: fab fa-instagram
       - name: "Hee Dou Kim"
         role: "Korean National Police University"
-        image: assets/img/team/6.png
+        image: assets/img/team/8.png
         social:
           - url: https://www.police.ac.kr/police/index.do
             icon: fab fa-safari
       - name: "Myung-Sun Baek"
         role: "Sejong University"
-        image: assets/img/team/7.png
+        image: assets/img/team/9.png
         social:
           - url: http://sejong.ac.kr/
             icon: fab fa-safari
